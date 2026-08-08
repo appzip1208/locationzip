@@ -1,0 +1,10 @@
+{
+  "name": "Remix 우리동네 테마파크",
+  "description": "서울, 구리, 남양주 주민들이 함께 만드는 이색 테마 지도 서비스",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
